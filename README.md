@@ -1,4 +1,6 @@
-### Hi there 👋
+I am an Australian Zend certified Senior Developer working in Brisbane, Australia with a passion for mountain biking.
+
+Currently, learning Rust and Spanish.
 
 <!--
 **treffynnon/treffynnon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
