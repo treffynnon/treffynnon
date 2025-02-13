@@ -1,4 +1,4 @@
-I am an Australian Zend certified Senior Developer working in Brisbane, Australia with a passion for mountain biking.
+I am an Australian Senior Developer working in Brisbane, Australia with a passion for mountain biking.
 
 Currently, learning Rust and Spanish.
 
